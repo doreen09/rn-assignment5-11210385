@@ -37,13 +37,13 @@ React Navigation (for routing and navigation)
 ## Screenshots
 ### Light Mode
 
-![Home Screen](./MobileApp/LightModeHome.jpg)
-![Settings Screen](./MobileApp/LightModeSettings.jpg)
+![Home Screen](./MobileApp/screenshots/LightModeHome.jpg)
+![Settings Screen](./MobileApp/screenshots/LightModeSettings.jpg)
 
 ### Dark Mode
 
-![Home Screen](./MobileApp/DarkModeHome.jpg)
-![Settings Screen](./MobileApp/DarkModeSettings.jpg)
+![Home Screen](./MobileApp/screenshots/DarkModeHome.jpg)
+![Settings Screen](./MobileApp/screenshots/DarkModeSettings.jpg)
 
 
 
